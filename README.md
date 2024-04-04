@@ -20,9 +20,6 @@ Text Translation: Verifies that text can be correctly translated from English to
 Document Translation: Checks the translation of .docx files from English to Danish, ensuring the translated document matches expected output.
 Language Swap: Tests the functionality of swapping source and destination languages.
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
 
 ## Setup
 To run these tests, you'll need:

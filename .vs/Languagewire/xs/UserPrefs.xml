@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{6C3EBB24-ADB9-4649-9791-95DDFCEBAE14}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Languagewire PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/E2ETest.cs">
+    <Files>
+      <File FileName="Pages/MainPage.cs" Line="1" Column="1" />
+      <File FileName="Tests/E2ETest.cs" Line="78" Column="125" />
+      <File FileName="Utilities/DocumentUtilities.cs" Line="38" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Languagewire">
+            <Node name="Languagewire" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Tests" expanded="True">
+                <Node name="E2ETest.cs" selected="True" />
+              </Node>
+              <Node name="Utilities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Languagewire" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
